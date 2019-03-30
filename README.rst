@@ -2,8 +2,8 @@
     :width: 72px
     :target: https://beeware.org
 
-beeware.github.io
-=================
+pybee.github.io
+===============
 
 This is the alternate homepage for the `BeeWare project`_.
 
